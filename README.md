@@ -1,4 +1,5 @@
 # rand
+rand - generate a random password
 
 ## Requirements
 - gcc
