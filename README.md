@@ -5,4 +5,4 @@ rand - generate a random password
 - gcc
 
 ## Compiling
-gcc src\main.c -o rand
+make
