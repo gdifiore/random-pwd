@@ -12,5 +12,5 @@ TARGET = rand
 all : $(TARGET)
 
 $(TARGET) : src/main.c
-	$(CC) src/main.c -g -o $(TARGET)
+	$(CC) src/main.c -o $(TARGET)
 	@echo Successfully built $(TARGET)
