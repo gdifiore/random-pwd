@@ -1,6 +1,6 @@
 /*
  *
- * main.c - rand
+ * rand.c - rand
  *
  * (c) 2018 gdifiore <difioregabe@gmail.com>
  *
